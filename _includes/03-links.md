@@ -1,2 +1,2 @@
-https://github.com/mondtorsha
-https://www.linkedin.com/in/torsha-mondal-611940132/
+[GitHub](https://github.com/mondtorsha)
+[LinkedIn](https://www.linkedin.com/in/torsha-mondal-611940132/)

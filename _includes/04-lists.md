@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- Python
+- Machine Learning
+- Deep Learning
+- Data Science
+- Automation Testing using Selenium
